@@ -9,6 +9,6 @@ Python 3
 1. Instale o Python 3.
 2. Baixe o arquivo runlab.py
 3. Execute o programa
-4. Informe o Nome, dinheiro disponível,nome do produto e o dinheiro do produto
+4. Informe o Nome, dinheiro disponível,nome do produto e o preço do produto
 ## Autor
 Projeto desenvolvido durante meus estudos de Python
